@@ -6,17 +6,21 @@
 **Вторая специальность** - Python-разработчик.
 Стаж - 1 год коммерческой разработки.
 
-Мои Пет-проекты на ГитХабе:
+#### Мои проекты на ГитХабе:
+```
+● Учебные и тесты: 1-2.
+● Пет-проекты: 3-5.
+● Тестовые задания: 6-7.
+```
 
 ### 1. Дипломный проект: ТГ-Бот поиска отелей в разных городах мира.
 - Стек: **_telebot, Logging, functools_**.
 - Суть: Бот ищет отели в разных городах по заданному ценовому диапазону
 - Ссылка GitHub: https://github.com/ildarius116/TooEasyTravelBot
 
-### 2. Пет-проект: ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
-- Стек: **_telebot, Docker_**.
-- Суть: Бот ищет факториал указанного числа.
-- Ссылка GitHub: https://github.com/ildarius116/factorial
+### 2. КонТесты: Различные Контесты от Яндекс и прочих организаций
+- Ссылка GitHub: https://github.com/ildarius116/Yandex_Contest
+- Ссылка GitHub: https://github.com/ildarius116/Other_Contests
 
 ### 3. Пет-проект: Windows – приложение «Строитель Battletech Мехов».
 - Стек: **_math, Excel, tkinter, auto-py-to-exe, nuitka_**.
@@ -40,6 +44,12 @@
 - Ссылка GitHub (код): https://github.com/ildarius116/cat_feeder
 - Ссылка GitHub (3D модели): https://github.com/ildarius116/cat_feeder_3d_models
 
-### 6. КонТесты: Пробовал решать различные Контесты от Яндекс и прочих организаций
-- Ссылка GitHub: https://github.com/ildarius116/Yandex_Contest
-- Ссылка GitHub: https://github.com/ildarius116/Other_Contests
+### 6. Пет-проект: ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
+- Стек: **_telebot, Docker_**.
+- Суть: Бот ищет факториал указанного числа.
+- Ссылка GitHub: https://github.com/ildarius116/factorial
+
+### .	Тестовое задание: Сервис терминологии для МИС.
+- Стек: Django, REST API, swagger, Docker-compose, bcrypt. 
+- Суть: Wed-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
+- Ссылка GitHub: https://github.com/ildarius116/MIS_Django_KOMTEK
