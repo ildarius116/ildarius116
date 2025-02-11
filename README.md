@@ -50,6 +50,15 @@
 - Ссылка GitHub: https://github.com/ildarius116/factorial
 
 ### 7.	Тестовое задание: Сервис терминологии для МИС.
-- Стек: Django, REST API, swagger, Docker-compose, bcrypt. 
-- Суть: Wed-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
+- Стек: Django, REST API, swagger. 
+- Суть: Web-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
 - Ссылка GitHub: https://github.com/ildarius116/MIS_Django_KOMTEK
+
+### 8.	REST API Веб сервер на фреймворке Sanic.
+- Стек: Sanic, REST API, postgresql, sqlalchemy, bcrypt, hashlib, logging, Docker-compose. 
+- Суть: Web-сервер с пользователями и админами с подключенной простейшей платежной системой.
+- Ссылка GitHub: https://github.com/ildarius116/Web_Server_Sanic_DT
+- - **простейший эмулятор платежной системы**
+- - Стек: Flask, requests, hashlib, uuid, logging, Docker. 
+- - Суть: Отправляет введенные на Web-странице данные платежа.
+- - Ссылка GitHub: https://github.com/ildarius116/Webhook_payment_service
