@@ -44,12 +44,12 @@
 - Ссылка GitHub (код): https://github.com/ildarius116/cat_feeder
 - Ссылка GitHub (3D модели): https://github.com/ildarius116/cat_feeder_3d_models
 
-### 6. Пет-проект: ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
+### 6. ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
 - Стек: **_telebot, Docker_**.
 - Суть: Бот ищет факториал указанного числа.
 - Ссылка GitHub: https://github.com/ildarius116/factorial
 
-### 7.	Тестовое задание: Сервис терминологии для МИС.
+### 7.	Сервис терминологии для МИС.
 - Стек: Django, REST API, swagger. 
 - Суть: Web-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
 - Ссылка GitHub: https://github.com/ildarius116/MIS_Django_KOMTEK
