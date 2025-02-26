@@ -61,3 +61,8 @@
 - - Стек: Flask, requests, hashlib, uuid, logging, Docker. 
 - - Суть: Отправляет введенные на Web-странице данные платежа.
 - - Ссылка GitHub: https://github.com/ildarius116/Webhook_payment_service
+
+### 9.	Веб-магазин с платежной системой.
+- Стек: Django, REST API, Stripe. 
+- Суть: Простой веб-магазин на фреймворке Django с подключенной платежной системой "Stripe".
+- Ссылка GitHub: https://github.com/ildarius116/Web_shop_with_Stripe_Django
