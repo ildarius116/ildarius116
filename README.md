@@ -40,14 +40,14 @@
 
 ### 7.	REST API Веб сервер на фреймворке Sanic.
 - Стек: Sanic, REST API, postgresql, sqlalchemy, bcrypt, hashlib, logging, Docker-compose. 
-- Задача: Web-сервер с пользователями и админами с подключенной простейшей платежной системой.
+- Задача: Web-сервер с пользователями и админами с подключенной платежной системой.
 - Ссылка GitHub: https://github.com/ildarius116/Web_Server_Sanic_DT
-- - **простейший эмулятор платежной системы**
+- - **Эмулятор платежной системы**
 - - Стек: Flask, requests, hashlib, uuid, logging, Docker. 
 - - Задача: Отправляет введенные на Web-странице данные платежа.
 - - Ссылка GitHub: https://github.com/ildarius116/Webhook_payment_service
 
 ### 8.	Веб-магазин с платежной системой.
 - Стек: Django, REST API, Stripe. 
-- Задача: Простой веб-магазин на фреймворке Django с подключенной платежной системой "Stripe".
+- Задача: Веб-магазин на фреймворке Django с подключенной платежной системой "Stripe".
 - Ссылка GitHub: https://github.com/ildarius116/Web_shop_with_Stripe_Django
