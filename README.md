@@ -1,53 +1,52 @@
 # Обо мне
 
+**Python-разработчик:**
+Стаж - 1 год коммерческой разработки.
+
 #### Мои проекты на ГитХабе:
 
-### 1. Windows – приложение «Строитель Battletech Мехов».
+### Windows – приложение «Строитель Battletech Мехов».
 - Стек: **_math, Excel, tkinter, auto-py-to-exe, nuitka_**.
-- Задача: Приложение ищет наилучшую, с точки зрения «урона в минуту», сборку (комбинацию) оружия среди указанных, в соответствии с указанными ограничениями.
-- Ссылка GitHub: https://github.com/ildarius116/Battletech_Mech_builder_v1
+- Суть: Приложение ищет наилучшую, с точки зрения «урона в минуту», сборку (комбинацию) оружия среди указанных, в соответствии с указанными ограничениями.
+- Ссылка: https://github.com/ildarius116/Battletech_Mech_builder_v1
 
-### 2. Windows – приложение «Технический помощник» (для работы по предыдущей специальности).
+### Windows – приложение «Технический помощник» (для работы по предыдущей специальности).
 - Стек: **_Excel, PyQt6, auto-py-to-exe, nuitka_**.
-- Задача: Приложение позволяет автоматизировать:
+- Суть: Приложение позволяет автоматизировать:
 - * Создание перечня элементов по ГОСТ структуре;
 - * Создание спецификации элементов по ГОСТ структуре;
 - * Создание сортированного и сгруппированного списка элементов для закупки;
 - * Поиск элементов в Excel файле склада.
-- Ссылка GitHub: https://github.com/ildarius116/Tech_Doc_Helper
+- Ссылка: https://github.com/ildarius116/Tech_Doc_Helper
 
-### 3. Автоматическая кормилка для кошки.
+### Автоматическая кормилка для кошки.
 - Стек: **_С++, Arduino, Compas3d_**.
-- Задача: Устройство позволяет порционно кормить кошку сухим кормом, устанавливая:
+- Суть: Устройство позволяет порционно кормить кошку сухим кормом, устанавливая:
 - * Количество кормлений в сутки;
 - * Количество корма в 1 порции;
-- Ссылка GitHub (код): https://github.com/ildarius116/cat_feeder
-- Ссылка GitHub (3D модели): https://github.com/ildarius116/cat_feeder_3d_models
+- Ссылка (код): https://github.com/ildarius116/cat_feeder
+- Ссылка (3D модели): https://github.com/ildarius116/cat_feeder_3d_models
 
-### 4. КонТесты: Различные Контесты от Яндекс и прочих организаций
-- Ссылка GitHub: https://github.com/ildarius116/Yandex_Contest
-- Ссылка GitHub: https://github.com/ildarius116/Other_Contests
-
-### 5. ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
+### КонТесты: Различные Контесты от Яндекс и прочих организаций
+- Ссылка: https://github.com/ildarius116/Yandex_Contest
+- Ссылка: https://github.com/ildarius116/Other_Contests
+- 
+### ТГ-Бот поиска факториала (тестовое задание в ООО "РК").
 - Стек: **_telebot, Docker_**.
-- Задача: Бот ищет факториал указанного числа.
-- Ссылка GitHub: https://github.com/ildarius116/factorial
+- Суть: Бот ищет факториал указанного числа.
+- Ссылка: https://github.com/ildarius116/factorial
 
-### 6.	Сервис терминологии для МИС.
-- Стек: Django, REST API, swagger. 
-- Задача: Web-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
-- Ссылка GitHub: https://github.com/ildarius116/MIS_Django_KOMTEK
+### Веб-сервис терминологии для МИС.
+- Стек: **_Django, REST API, swagger, Docker-compose, bcrypt_**. 
+- Суть: Wed-сервис позволяет получать различные данные по терминологии Медицинской Информационной Системы.
+- Ссылка: https://github.com/ildarius116/MIS_Django_KOMTEK
 
-### 7.	REST API Веб сервер на фреймворке Sanic.
-- Стек: Sanic, REST API, postgresql, sqlalchemy, bcrypt, hashlib, logging, Docker-compose. 
-- Задача: Web-сервер с пользователями и админами с подключенной платежной системой.
-- Ссылка GitHub: https://github.com/ildarius116/Web_Server_Sanic_DT
-- - **Эмулятор платежной системы**
-- - Стек: Flask, requests, hashlib, uuid, logging, Docker. 
-- - Задача: Отправляет введенные на Web-странице данные платежа.
-- - Ссылка GitHub: https://github.com/ildarius116/Webhook_payment_service
+### Веб-магазин на фреймворке Sanic с платежной системой.
+- Стек: **_Sanic, REST API, swagger, Docker-compose, bcrypt_**. 
+- Суть: Web-магазин на фреймворке Sanic с пользователями и админами с подключенной платежной системой.
+- Ссылка: https://github.com/ildarius116/Web_Server_Sanic_DT
 
-### 8.	Веб-магазин с платежной системой.
-- Стек: Django, REST API, Stripe. 
-- Задача: Веб-магазин на фреймворке Django с подключенной платежной системой "Stripe".
-- Ссылка GitHub: https://github.com/ildarius116/Web_shop_with_Stripe_Django
+### Веб-магазин на фреймворке Django с платежной системой "Stripe".
+- Стек: **_Django, REST API, Stripe_**. 
+- Суть: Веб-магазин на фреймворке Django с подключенной платежной системой "Stripe".
+- Ссылка: https://github.com/ildarius116/Web_shop_with_Stripe_Django
