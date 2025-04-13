@@ -6,9 +6,11 @@
 ### Мои проекты на ГитХабе:
 
 #### Система управления заказами в кафе на фреймворке Django.
-- Стек: **_Django, DRF, REST API, SQLite, typing_**. 
+- Стек: **_Django, DRF, REST API, SQLite, typing_**. Дополнительно **_Docker-compose_**.
 - Суть: веб-приложение для управления заказами в кафе, в том числе через API.
 - Ссылка: https://github.com/ildarius116/Cafe_OMS_Django
+- **_CI/CD проект_**: Развернуто приложение на удаленном сервере с применением CI/CD технологии
+- Ссылка: https://gitlab.com/ildarius116/Cafe_OMS_Django_CI-CD
 
 #### Микросервис получения данных из сети Tron на фреймворке Fast API.
 - Стек: **_Fast API, sqlalchemy, tronpy, pydantic, unittest, pytest, pytest_asyncio, uvicorn_**. 
