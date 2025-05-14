@@ -9,11 +9,13 @@
 - Стек: **_Django, DRF, REST API, SQLite, typing_**. Дополнительно **_Docker-compose_**.
 - Суть: веб-приложение для управления заказами в кафе, в том числе через API.
 - Ссылка: https://github.com/ildarius116/Cafe_OMS_Django
-- **_CI/CD проект_**: Развернуто приложение на удаленном сервере с применением CI/CD технологии
+- **CI/CD** проект: Развернуто приложение на удаленном сервере с применением CI/CD технологии
 - Ссылка: https://gitlab.com/ildarius116/Cafe_OMS_Django_CI-CD
+- **FastAPI** проект: **_FastAPI, RESTfull API, SQLite, sqlalchemy, poetry, pydantic_**
+- Ссылка: https://github.com/ildarius116/Cafe_OMS_FastAPI_v1
 
-#### Микросервис получения данных из сети Tron на фреймворке Fast API.
-- Стек: **_Fast API, sqlalchemy, tronpy, pydantic, unittest, pytest, pytest_asyncio, uvicorn_**. 
+#### Микросервис получения данных из сети Tron на фреймворке FastAPI.
+- Стек: **_FastAPI, sqlalchemy, tronpy, pydantic, unittest, pytest, pytest_asyncio, uvicorn_**. 
 - Суть: сервис выводит информацию о кошельке по адресу в сети Трон.
 - Ссылка: https://github.com/ildarius116/TRON_FAST_API
 
