@@ -5,14 +5,14 @@
 
 ### Мои проекты на ГитХабе:
 
-#### Система управления заказами в кафе на фреймворке Django.
-- Стек: **_Django, DRF, REST API, SQLite, typing_**. Дополнительно **_Docker-compose_**.
+#### Система управления заказами в кафе на фреймворках Django и FastAPI.
 - Суть: веб-приложение для управления заказами в кафе, в том числе через API.
+- **FastAPI** проект: **_FastAPI, RESTfull API, SQLite, sqlalchemy, poetry, pydantic_**
+- Ссылка: https://github.com/ildarius116/Cafe_OMS_FastAPI_v1
+- **Django** проект: **_Django, DRF, REST API, SQLite, typing_**. Дополнительно **_Docker-compose_**.
 - Ссылка: https://github.com/ildarius116/Cafe_OMS_Django
 - **CI/CD** проект: Развернуто приложение на удаленном сервере с применением CI/CD технологии
 - Ссылка: https://gitlab.com/ildarius116/Cafe_OMS_Django_CI-CD
-- **FastAPI** проект: **_FastAPI, RESTfull API, SQLite, sqlalchemy, poetry, pydantic_**
-- Ссылка: https://github.com/ildarius116/Cafe_OMS_FastAPI_v1
 
 #### Микросервис получения данных из сети Tron на фреймворке FastAPI.
 - Стек: **_FastAPI, sqlalchemy, tronpy, pydantic, unittest, pytest, pytest_asyncio, uvicorn_**. 
