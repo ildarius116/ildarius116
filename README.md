@@ -7,6 +7,9 @@
 
 #### Система управления заказами в кафе на фреймворках Django и FastAPI.
 - Суть: веб-приложение для управления заказами в кафе, в том числе через API.
+- **AI** проект: **_Полностью сгенерирован ИИ QWEN 3.5 Plus_**
+- Ссылка: https://github.com/ildarius116/Cafe_OMS_FastAPI_v3_ai_qwen
+- Суть: веб-приложение для управления заказами в кафе, в том числе через API.
 - **FastAPI** проект: **_FastAPI, RESTfull API, SQLite, sqlalchemy, poetry, pydantic_**
 - Ссылка: https://github.com/ildarius116/Cafe_OMS_FastAPI_v1
 - **Django** проект: **_Django, DRF, REST API, SQLite, typing_**. Дополнительно **_Docker-compose_**.
